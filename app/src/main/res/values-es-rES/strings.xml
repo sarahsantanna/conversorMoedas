@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Convertidor Monedas</string>
+    <string name="moedas">Índice Big Mac</string>
+    <string name="calcular">CÁLCULO</string>
+    <string name="informe_valor">Introduzca un valor!</string>
+    <string name="valor_em_euro">Valor en Euro (€ 1,00 = R $ 5,00)</string>
+    <string name="valor_em_dolar">Valor en Dolar ($ 1,00 = R $ 4,00)</string>
+    <string name="qual_o_valor_em_real">¿Cuál es el valor real?</string>
+    <string name="button">INICIO</string>
+    <string name="todo">TODO</string>
+    <string name="conversor_de_moedas">Convertidor de Monedas</string>
+</resources>
